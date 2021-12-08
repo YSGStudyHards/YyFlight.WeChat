@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\YyFlight.WeChat.Utility\YyFlight.WeChat.Utility.csproj" />
+    <ProjectReference Include="..\YyFlight.WeChat.Work\YyFlight.WeChat.Work.csproj" />
+  </ItemGroup>
+
+</Project>
